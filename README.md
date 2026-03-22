@@ -79,10 +79,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
   
-<a href="https://instagram.com/pdp28_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
 <a href="https://medium.com/@damodara2006" target="_blank">
 <img src="https://skillicons.dev/icons?i=medium" height="45" />
 </a>
