@@ -15,7 +15,7 @@
 - 👯 Open to collaborating on **AI projects & backend systems**
 - 💬 Ask me about **Java, MERN, Redis Caching, CI/CD, LangChain, AI Agents**
 - 📫 Reach me at **damodara2006@gmail.com**
-- 🌐 Portfolio: **[https://portfolio-frontend-swwd.onrender.com/](https://damodara-prakash-portfolio.onrender.com/)**
+- 🌐 Portfolio: **[Click Here](https://damodara-prakash-portfolio.onrender.com/)**
 - ⚡ Fun fact: I enjoy turning complex AI ideas into working prototypes
 
 ---
