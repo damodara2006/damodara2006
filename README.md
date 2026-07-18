@@ -75,13 +75,15 @@
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
   
-<a href="https://www.linkedin.com/in/damodara-prakash-p-b056a2291" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/damodara-prakash-p-b056a2291" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
 
-<a href="https://x.com/DPrakash96227" target="_blank">
-<img src="https://skillicons.dev/icons?i=x" height="45" />
-</a>
+  <a href="https://x.com/DPrakash96227" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="45" alt="X (Twitter)"/>
+  </a>
+</p>
   
 <a href="https://medium.com/@damodara2006" target="_blank">
 <img src="https://skillicons.dev/icons?i=medium" height="45" />
