@@ -71,9 +71,6 @@
 # 🔗 Connect With Me
 
 <p align="center">
-<a href="https://github.com/damodara2006" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
   
 
   <a href="https://www.linkedin.com/in/damodara-prakash-p-b056a2291" target="_blank">
@@ -84,6 +81,9 @@
     <img src="https://cdn.simpleicons.org/x/ffffff" height="45" alt="X (Twitter)"/>
   </a>
 
+   <a href="https://www.reddit.com/user/damodara2006/" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="45" alt="Reddit"/>
+  </a>
   
 <a href="https://medium.com/@damodara2006" target="_blank">
 <img src="https://skillicons.dev/icons?i=medium" height="45" />
