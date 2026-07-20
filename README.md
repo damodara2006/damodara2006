@@ -24,11 +24,8 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 
 **Tech Interests**
 
-- AI Agents
-- Backend Development
-- System Design
-- Redis
-- Docker
+- AI Engineer
+- Scalable Backend Development
 - CI/CD
 
 ---
@@ -37,7 +34,7 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 
 **Languages**
 
-`Java` `Python` `JavaScript` `C`
+`Java` `Javascript` `C`
 
 **Frontend**
 
@@ -46,7 +43,7 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 **Backend**
 
 `Node.js` `Express.js`
-
+`
 **Databases**
 
 `MongoDB` `MySQL` `Redis`
@@ -57,16 +54,4 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 
 **DevOps & Cloud**
 
-`Docker` `Jenkins` `AWS` `Azure` `Linux` `Git`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damodara2006&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodara2006&layout=compact&theme=github_dark" />
-</p>
+`Docker` `Jenkins` `AWS` `Azure` `Linux`
