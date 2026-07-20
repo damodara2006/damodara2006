@@ -43,7 +43,7 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 **Backend**
 
 `Node.js` `Express.js`
-`
+
 **Databases**
 
 `MongoDB` `MySQL` `Redis`
