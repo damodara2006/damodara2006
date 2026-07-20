@@ -46,7 +46,7 @@ I'm a Computer Science student interested in AI, backend engineering, and distri
 
 **Databases**
 
-`MongoDB` `MySQL` `Redis`
+`MongoDB` `MySQL` 
 
 **AI**
 
